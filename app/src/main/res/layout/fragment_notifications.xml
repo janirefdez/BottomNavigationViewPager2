@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.janirefernandez.bottomnavigationviewpager.ui.notifications.NotificationsFragment">
+    android:background="@color/teal_700"
+    tools:context=".ui.notifications.NotificationsFragment">
 
     <TextView
         android:id="@+id/text_notifications"
